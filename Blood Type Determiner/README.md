@@ -1,0 +1,1 @@
+A program that prints the blood type per person in a generation. A generation here is based on a person who has a. his own blood type, and b. two parents that influenced the blood type. In this program we can get the blood type of all these three members per generation. The program works with data formatted as a singly-linked list.
