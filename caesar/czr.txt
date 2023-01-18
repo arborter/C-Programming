@@ -1,0 +1,9 @@
+ALPHABET[] = {0, 1, 2, 3,... 25}
+
+ string main(void)
+ {
+    // Gets 
+    string plain_text = get_string("Plain Text: ")
+
+
+ }
