@@ -34,15 +34,6 @@ BYTE cap(a)
 }
 
 
-// RESULT:
-//          R: 255 G:212 B:155
-
-
-
-// so now my question is, why did my code not work while the other one did.
-// He used a temporary value, but why do that when you can alter in real
-// time like these functions below.
-
 
 typedef unsigned char BYTE;
 BYTE cap(double a);
