@@ -1,0 +1,5 @@
+This is an image filter where I learned how to connect a host of files to create one cohesive project. This program utilizes the CS50 library to bypass the CLANG and CHMOD necessities for a seamless workflow during testing.
+In this project I learned about the complexity of files and how data is organized, but most importantly I learned about how data is manipulated to make it do what one wants.
+In order to manipulate the images I performed array arithmetic with a series of loops where I rearranged each pixel depending on the effect specified in the argument at the terminal, and then I put those rearranged values into a temporary (tmp) location in memeory, afterwards I put that modified image of the temporary memory back into the original.
+
+In this porject I also learned how it is important when consolidating memory to not create duplicates, but to create a temporary value to store changes and THEN put those changes back into the original. The idea is to dispose of what is unnecessary and keep the machine operating with a low rate of RAM for any given task.
